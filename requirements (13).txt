@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+numpy
+tensorflow
+PyPDF2
+python-docx
+reportlab
+scikit-learn
+nltk
